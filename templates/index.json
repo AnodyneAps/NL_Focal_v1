@@ -1,0 +1,507 @@
+{
+  "sections": {
+    "main": {
+      "type": "slideshow",
+      "blocks": {
+        "267b7b62-f09a-411d-9bf9-f34a662a1c63": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/anodyne_frontpage_hero.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/anodyne-new-mobile_cover.jpg",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "Ter ere van onze 9e verjaardag bieden we tot 50% korting aan",
+            "subtitle": "",
+            "button_1_text": "Ontdek nu",
+            "button_1_link": "shopify:\/\/collections",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#398e82",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "267b7b62-f09a-411d-9bf9-f34a662a1c63"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "68112e12-a026-4217-b452-43c9900c616c": {
+      "type": "collection-list",
+      "blocks": {
+        "template--18864107028825__68112e12-a026-4217-b452-43c9900c616c-1683005025769130db-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "vrouwen",
+            "subheading": "",
+            "title": "Vrouwen",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "template--18864107028825__68112e12-a026-4217-b452-43c9900c616c-1683005025769130db-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "mannen",
+            "subheading": "",
+            "title": "Mannen",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "template--18864107028825__68112e12-a026-4217-b452-43c9900c616c-1683005025769130db-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "posture-shirt",
+            "subheading": "",
+            "title": "Posture Shirt™",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "template--18864107028825__68112e12-a026-4217-b452-43c9900c616c-1683005025769130db-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "rugsteun",
+            "subheading": "",
+            "title": "Rugsteun",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "template--18864107028825__68112e12-a026-4217-b452-43c9900c616c-1683005025769130db-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "andere-producten",
+            "subheading": "",
+            "title": "Hulpmiddelen",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "template--18864107028825__68112e12-a026-4217-b452-43c9900c616c-1683005025769130db-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "alle-producten",
+            "subheading": "",
+            "title": "Alle producten",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "template--18864107028825__68112e12-a026-4217-b452-43c9900c616c-1683005025769130db-0",
+        "template--18864107028825__68112e12-a026-4217-b452-43c9900c616c-1683005025769130db-1",
+        "template--18864107028825__68112e12-a026-4217-b452-43c9900c616c-1683005025769130db-2",
+        "template--18864107028825__68112e12-a026-4217-b452-43c9900c616c-1683005025769130db-3",
+        "template--18864107028825__68112e12-a026-4217-b452-43c9900c616c-1683005025769130db-4",
+        "template--18864107028825__68112e12-a026-4217-b452-43c9900c616c-1683005025769130db-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "Vind uw volgende product",
+        "link_text_all": "",
+        "link_url_all": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "acb284a2-6852-42ed-a120-df8fea908870": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<!-- TrustBox widget - Slider -->\n<div class=\"trustpilot-widget\" data-locale=\"nl-BE\" data-template-id=\"54ad5defc6454f065c28af8b\" data-businessunit-id=\"58073ce80000ff0005963d14\" data-style-height=\"240px\" data-style-width=\"100%\" data-theme=\"light\" data-stars=\"5\" data-review-languages=\"nl\">\n  <a href=\"https:\/\/nl-be.trustpilot.com\/review\/anodyne.be\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->",
+        "add_vertical_spacing": false,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "e9ab36f3-3688-4184-90a5-32df265a7b17": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--18864107028825__e9ab36f3-3688-4184-90a5-32df265a7b17-16830053143d7332a8-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "posture-shirt",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18864107028825__e9ab36f3-3688-4184-90a5-32df265a7b17-16830053143d7332a8-0"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "products_count": 6,
+        "products_per_row": 3,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "01c00fcd-34f2-4775-921c-feb654dc09e9": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Wij zijn gespecialiseerd in houdingcorrectie en verlichting van pijn",
+        "content": "<p>Al 9 jaar streven wij ernaar toegang te verschaffen tot gemakkelijke en effectieve <a href=\"https:\/\/www.anodyne.nl\/collections\/alle-producten\"><span style=\"text-decoration:underline\">producten voor houdingscorrectie<\/span><\/a>, <a href=\"https:\/\/www.anodyne.nl\/collections\/rugsteun\"><span style=\"text-decoration:underline\">rugsteun<\/span><\/a> en pijnverlichting. Onze belangrijkste filosofie is dat we geen producten verkopen die we zelf niet zouden gebruiken. Sinds 2014 hebben we meer dan 300.000 tevreden klanten in Europa en we zijn van plan om er in de toekomst nog veel meer te hebben.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "fill",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6bdeca3e-c579-4a10-896c-d08793753be3": {
+      "type": "promotion-blocks",
+      "blocks": {
+        "742ecbbf-d80a-4d6d-834d-487dd4be9d05": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "30 dagen volledig retourrecht Genoeg tijd om een beslissing te maken",
+            "title": "✅ Volledig retourrecht",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f7f7",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "template--18864107028825__6bdeca3e-c579-4a10-896c-d08793753be3-168300782886eb716f-0": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "Voor aankopen boven €59,00",
+            "title": "✅ Gratis verzending",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f7f7",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "template--18864107028825__6bdeca3e-c579-4a10-896c-d08793753be3-168300782886eb716f-2": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "Wij zorgen voor een retourlabel",
+            "title": "✅ Gratis ruilen",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f7f7",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "9759ee88-3d88-4be6-9db8-d88dece04bf0": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "100% tevreden of je volledige aankoopbedrag terug",
+            "title": "✅ Tevredenheidsgarantie",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f7f7",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "68298cfc-d12e-4ab7-8f5d-bec300196b3f": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "Wij verzenden uw bestelling met DHL",
+            "title": "✅ Snelle levering",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f7f7",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "0ed7bba4-58de-405c-b8be-009aec7d53ed": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "Met iDEAL kunt u vertrouwd, veilig en gemakkelijk online betalen",
+            "title": "✅ Betalen met iDEAL",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f7f7",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        }
+      },
+      "block_order": [
+        "742ecbbf-d80a-4d6d-834d-487dd4be9d05",
+        "template--18864107028825__6bdeca3e-c579-4a10-896c-d08793753be3-168300782886eb716f-0",
+        "template--18864107028825__6bdeca3e-c579-4a10-896c-d08793753be3-168300782886eb716f-2",
+        "9759ee88-3d88-4be6-9db8-d88dece04bf0",
+        "68298cfc-d12e-4ab7-8f5d-bec300196b3f",
+        "0ed7bba4-58de-405c-b8be-009aec7d53ed"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "section_size": "small",
+        "stack_on_mobile": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "118c32e7-6436-48f6-be61-3fef8ac993d5": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "Van kinesiotape tot houdingcorrigerende kleding",
+        "video": "shopify:\/\/files\/videos\/anodyne_frontpage_movie.mp4",
+        "video_url": "",
+        "background_type": "boxed",
+        "video_size": "auto",
+        "autoplay": true,
+        "show_video_controls": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "9f13395f-e16c-437f-a34a-e7dd6b7756c1": {
+      "type": "multi-column",
+      "blocks": {
+        "template--18864107028825__9f13395f-e16c-437f-a34a-e7dd6b7756c1-1683008442edb0d93a-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Integrity.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "De originele houdingcorrigerende kleding",
+            "content": "<p>De originele houdingcorrigerende kleding van Anodyne® kan alleen hier worden gekocht: op www.anodyne.nl of bij een van onze goedgekeurde resellers. Houd er rekening mee dat er veel namaakproducten in omloop zijn. Slechts één van deze soorten houdingcorrigerende kleding is zowel geregistreerd als medisch hulpmiddel als FDA-geregistreerd, namelijk de producten van Anodyne®. Let dus goed op wanneer je online iets bestelt.<\/p>",
+            "link_text": "Ontdek nu",
+            "link_url": "shopify:\/\/collections",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--18864107028825__9f13395f-e16c-437f-a34a-e7dd6b7756c1-1683008442edb0d93a-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Quality.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Houdingcorrigerende kleding met 100% tevredenheidsgarantie",
+            "content": "<p>Bij Anodyne® bieden we altijd 100% tevredenheidsgarantie, 30 dagen retourrecht en gratis ruilen of retourneren. Dit betekent dat je je product 30 dagen vrijblijvend kunt testen en kijken of het aan je verwachtingen voldoet. Het is de bedoeling dat je 100% tevreden bent – net als onze meer dan 300.000 klanten, die de afgelopen 9 jaar een origineel Anodyne®-product hebben gekocht. Minder dan 1 op de 20 klanten retourneert daadwerkelijk hun product.<\/p>",
+            "link_text": "Ontdek nu",
+            "link_url": "shopify:\/\/collections",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--18864107028825__9f13395f-e16c-437f-a34a-e7dd6b7756c1-1683008442edb0d93a-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kinesio.png",
+            "image_width": 20,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Van kinesiotape tot houdingcorrigerende kleding",
+            "content": "<p>Het houdingsshirt activeert de rugspieren, schouders en schouderbladen, zonder je spieren of gewrichten vast te zetten. De technologie achter de houdingcorrigerende kleding is geïnspireerd door kinesiotape - een behandelingsmethode die vaak door fysiotherapeuten en chiropractors wordt gebruikt om pijn en spanning in de nek, schouders en rug te behandelen. Kinesiotaping wordt ook vaak gebruikt door professionele sporters om specifieke spiergroepen te stimuleren en de houding te verbeteren.<\/p>",
+            "link_text": "Ontdek nu",
+            "link_url": "shopify:\/\/collections",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--18864107028825__9f13395f-e16c-437f-a34a-e7dd6b7756c1-1683008442edb0d93a-0",
+        "template--18864107028825__9f13395f-e16c-437f-a34a-e7dd6b7756c1-1683008442edb0d93a-1",
+        "template--18864107028825__9f13395f-e16c-437f-a34a-e7dd6b7756c1-1683008442edb0d93a-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c7044276-4628-4d09-beca-4c2a57b2d8af": {
+      "type": "shop-the-look",
+      "blocks": {
+        "template--18864107028825__c7044276-4628-4d09-beca-4c2a57b2d8af-1683008738231289fc-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/product-collection_1600x_1600x_43d33cde-67fd-4f12-99ce-0e0ba1d53af4.webp",
+            "dot_type": "normal",
+            "product_1": "rugbrace",
+            "product_1_horizontal_position": 27,
+            "product_1_vertical_position": 70,
+            "product_1_horizontal_position_mobile": 30,
+            "product_1_vertical_position_mobile": 30,
+            "product_2": "houding-corrector-premium",
+            "product_2_horizontal_position": 51,
+            "product_2_vertical_position": 54,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "mens-posture-shirt-zwart",
+            "product_3_horizontal_position": 80,
+            "product_3_vertical_position": 50,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        }
+      },
+      "block_order": [
+        "template--18864107028825__c7044276-4628-4d09-beca-4c2a57b2d8af-1683008738231289fc-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "label": ""
+      }
+    },
+    "4a0b8872-77a9-4583-baad-3c637f4444a5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18864107028825__4a0b8872-77a9-4583-baad-3c637f4444a5-1683008903a14755fc-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/anodyne_frontpage_hero_mobile.jpg",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Houdingcorrigerende kleding",
+            "content": "<p>Met de houdingcorrigerende kleding van Anodyne® kun je eenvoudig en moeiteloos een betere houding krijgen, waardoor pijn en spanning in de nek en schouders worden verminderd. De houdingcorrigerende kleding van Anodyne® helpt je om je continu bewust te zijn van je houding. Of je nu stilzittend of actief werk doet, reist of sport. Anodyne® is een Europese producent en distributeur van houdingcorrigerende kleding met technologie ontwikkeld door de Amerikaanse AlignMed – de enige producent ter wereld van houdingcorrigerende kleding die geregistreerd staat bij de Amerikaanse FDA. De houdingcorrigerende kleding van Alignmed® is de enige in Europa die zowel FDA-geregistreerd is als voorzien is van een MDR-markering voor medische hulpmiddelen (Klasse I). De MDR-markering is dus je garantie dat onze producten voldoen aan de eisen die aan medische hulpmiddelen worden gesteld.        <\/p>",
+            "button_text": "Ontdek nu",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "template--18864107028825__4a0b8872-77a9-4583-baad-3c637f4444a5-1683008903a14755fc-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "a354dfd7-caf7-4261-838f-5df83d483ba6": {
+      "type": "newsletter",
+      "settings": {
+        "reveal_on_scroll": true,
+        "image": "shopify:\/\/shop_images\/newsletter-bg.jpg",
+        "subheading": "Newsletter",
+        "content": "<p>Ontdek exclusieve deals, nieuwe producten en opwindende verkopen, allemaal handig bezorgd in uw inbox.<\/p>",
+        "text_position": "right",
+        "text_alignment": "left",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "7b261ce4-1e1a-4609-99df-30ccfeae818a": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<div class=\"trustpilot-widget\" data-locale=\"nl-BE\" data-template-id=\"5406e65db0d04a09e042d5fc\" data-businessunit-id=\"58073ce80000ff0005963d14\" data-style-height=\"28px\" data-style-width=\"100%\" data-theme=\"light\">\n  <a href=\"https:\/\/nl-be.trustpilot.com\/review\/anodyne.be\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "68112e12-a026-4217-b452-43c9900c616c",
+    "acb284a2-6852-42ed-a120-df8fea908870",
+    "e9ab36f3-3688-4184-90a5-32df265a7b17",
+    "01c00fcd-34f2-4775-921c-feb654dc09e9",
+    "6bdeca3e-c579-4a10-896c-d08793753be3",
+    "118c32e7-6436-48f6-be61-3fef8ac993d5",
+    "9f13395f-e16c-437f-a34a-e7dd6b7756c1",
+    "c7044276-4628-4d09-beca-4c2a57b2d8af",
+    "4a0b8872-77a9-4583-baad-3c637f4444a5",
+    "a354dfd7-caf7-4261-838f-5df83d483ba6",
+    "7b261ce4-1e1a-4609-99df-30ccfeae818a"
+  ]
+}

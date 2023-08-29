@@ -1,0 +1,356 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "a8a3f231-8a84-4354-a9fd-4d9059951169": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- TrustBox widget - Micro Star -->\n<div class=\"trustpilot-widget\" data-locale=\"nl-BE\" data-template-id=\"5419b732fbfb950b10de65e5\" data-businessunit-id=\"58073ce80000ff0005963d14\" data-style-height=\"24px\" data-style-width=\"100%\" data-theme=\"light\">\n  <a href=\"https:\/\/nl-be.trustpilot.com\/review\/anodyne.be\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->"
+          }
+        },
+        "00302c62-cfad-4969-982d-ecc6bafa935d": {
+          "type": "short-description",
+          "settings": {
+            "show_short_description": true
+          }
+        },
+        "ae6eb174-aa0c-4da3-bb2a-00c9fc61ff9b": {
+          "type": "swatch_colors",
+          "settings": {
+            "show_colors": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "variant_image",
+            "show_size_chart_page": true
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "7d730f1e-03a8-4b58-8b66-855e35aabc99": {
+          "type": "quantity_discounts",
+          "disabled": true,
+          "settings": {
+            "show_quantity_discounts": true
+          }
+        },
+        "12735dc9-3907-4582-bc82-4d993f4fc873": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "atc_button_background": "#398e82",
+            "atc_button_text_color": "#fcfcfc",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "e9a1324d-cd34-4057-bdfd-da6a338cdd55": {
+          "type": "usp_icons",
+          "settings": {
+            "icon": "picto-return-box",
+            "custom_icon": "shopify:\/\/shop_images\/product-return.png",
+            "custom_icon_width": 40,
+            "content": "<p>30 dagen volledig retourrecht<\/p>"
+          }
+        },
+        "38a65de0-7ad2-4f39-bbf0-91f5c2d8998d": {
+          "type": "usp_icons",
+          "settings": {
+            "icon": "picto-fast-delivery",
+            "custom_icon": "shopify:\/\/shop_images\/delivery.png",
+            "custom_icon_width": 40,
+            "content": "<p>Snelle levering met DHL<\/p>"
+          }
+        },
+        "f01fc0df-89a2-4754-8dd8-7826438720c7": {
+          "type": "usp_icons",
+          "settings": {
+            "icon": "picto-like",
+            "custom_icon": "shopify:\/\/shop_images\/free_delivery.png",
+            "custom_icon_width": 40,
+            "content": "<p>Gratis retourneren en ruilen<\/p>"
+          }
+        },
+        "9bc733f1-eaa9-4aeb-8e4b-6d0b7edf7a4f": {
+          "type": "usp_icons",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon": "shopify:\/\/shop_images\/happy_10a8e7f7-ccae-491e-a30e-e71196d60f69.png",
+            "custom_icon_width": 40,
+            "content": "<p>100% Tevredenheidsgarantie <\/p>"
+          }
+        },
+        "3949e64b-3ef3-462f-8cb5-9cfb151811cd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/registreringer_nl.jpg",
+            "image_alignment": "center",
+            "image_width": 350
+          }
+        },
+        "f537fb45-e7a4-44cd-aef5-ca0f296600aa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nl_payment_methods_ny.jpg",
+            "image_alignment": "center",
+            "image_width": 430
+          }
+        }
+      },
+      "block_order": [
+        "a8a3f231-8a84-4354-a9fd-4d9059951169",
+        "00302c62-cfad-4969-982d-ecc6bafa935d",
+        "ae6eb174-aa0c-4da3-bb2a-00c9fc61ff9b",
+        "variant_picker",
+        "quantity_selector",
+        "7d730f1e-03a8-4b58-8b66-855e35aabc99",
+        "12735dc9-3907-4582-bc82-4d993f4fc873",
+        "e9a1324d-cd34-4057-bdfd-da6a338cdd55",
+        "38a65de0-7ad2-4f39-bbf0-91f5c2d8998d",
+        "f01fc0df-89a2-4754-8dd8-7826438720c7",
+        "9bc733f1-eaa9-4aeb-8e4b-6d0b7edf7a4f",
+        "3949e64b-3ef3-462f-8cb5-9cfb151811cd",
+        "f537fb45-e7a4-44cd-aef5-ca0f296600aa"
+      ],
+      "settings": {
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": false,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "show_thumbnails_on_mobile": true,
+        "desktop_thumbnails_position": "left",
+        "transition_effect": "slide",
+        "product_counter_text": "<p>Wij verpakken uw bestelling in:<\/p>",
+        "show_product_counter": true,
+        "show_product_trustpilot_widget": false
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "145099a8-56fc-4928-9ff1-a0b55addb0c8": {
+          "type": "content",
+          "settings": {
+            "title": "Verzending en levering",
+            "content": "",
+            "page": "verzending-en-levering"
+          }
+        },
+        "6a6d631c-d930-4476-987c-345e048e409c": {
+          "type": "content",
+          "settings": {
+            "title": "Tevredenheidsgarantie",
+            "content": "",
+            "page": "tevredenheidsgarantie"
+          }
+        },
+        "133b0265-f52d-42d9-b1c6-a1a24613bc29": {
+          "type": "content",
+          "settings": {
+            "title": "Registraties",
+            "content": "",
+            "page": "registraties"
+          }
+        },
+        "36823c84-927f-45eb-be9f-067bdc376163": {
+          "type": "content",
+          "settings": {
+            "title": "Beoordelingen",
+            "content": "",
+            "page": "beoordelingen"
+          }
+        },
+        "995a2072-180d-4c51-a603-208dc03f3bb4": {
+          "type": "liquid",
+          "settings": {
+            "title": "",
+            "liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "145099a8-56fc-4928-9ff1-a0b55addb0c8",
+        "6a6d631c-d930-4476-987c-345e048e409c",
+        "133b0265-f52d-42d9-b1c6-a1a24613bc29",
+        "36823c84-927f-45eb-be9f-067bdc376163",
+        "995a2072-180d-4c51-a603-208dc03f3bb4"
+      ],
+      "settings": {
+      }
+    },
+    "6c6901df-cb46-40b6-a9c0-0673d0dc2942": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<!-- TrustBox widget - Slider -->\n<div class=\"trustpilot-widget\" data-locale=\"nl-BE\" data-template-id=\"54ad5defc6454f065c28af8b\" data-businessunit-id=\"58073ce80000ff0005963d14\" data-style-height=\"240px\" data-style-width=\"100%\" data-theme=\"light\" data-stars=\"5\" data-review-languages=\"nl\">\n  <a href=\"https:\/\/nl-be.trustpilot.com\/review\/anodyne.be\" target=\"_blank\" rel=\"noopener\">Trustpilot<\/a>\n<\/div>\n<!-- End TrustBox widget -->",
+        "add_vertical_spacing": false,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "4141dc15-6c36-4021-a2a1-980bf9d671c9": {
+      "type": "promotion-blocks",
+      "blocks": {
+        "template--18587076067653__4141dc15-6c36-4021-a2a1-980bf9d671c9-1681882116df57bd22-0": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "30 dagen volledig retourrecht Genoeg tijd om een beslissing te maken",
+            "title": "✅ Volledig retourrecht",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f7f7",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "template--18587076067653__4141dc15-6c36-4021-a2a1-980bf9d671c9-1681882116df57bd22-2": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "Voor aankopen boven €59,00",
+            "title": "✅ Gratis verzending",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f7f7",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "d586b713-a44c-498d-b1e1-0c3bc315b251": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "Wij zorgen voor een retourlabel",
+            "title": "✅ Gratis ruilen",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f7f7",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "7b76ec00-829b-4cbd-91f4-29fc1b2596e2": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "100% tevreden of je volledige aankoopbedrag terug",
+            "title": "✅ Tevredenheidsgarantie",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f7f7",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "d77be6af-2972-41f3-bdfc-e97b8fc081b1": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "Wij verzenden uw bestelling met DHL",
+            "title": "✅ Snelle levering",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f7f7",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "290acaab-6907-478b-b459-9d6ad421a2ba": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "Met iDEAL kunt u vertrouwd, veilig en gemakkelijk online betalen.",
+            "title": "✅ Betalen met iDEAL",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f7f7",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        }
+      },
+      "block_order": [
+        "template--18587076067653__4141dc15-6c36-4021-a2a1-980bf9d671c9-1681882116df57bd22-0",
+        "template--18587076067653__4141dc15-6c36-4021-a2a1-980bf9d671c9-1681882116df57bd22-2",
+        "d586b713-a44c-498d-b1e1-0c3bc315b251",
+        "7b76ec00-829b-4cbd-91f4-29fc1b2596e2",
+        "d77be6af-2972-41f3-bdfc-e97b8fc081b1",
+        "290acaab-6907-478b-b459-9d6ad421a2ba"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "section_size": "medium",
+        "stack_on_mobile": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "Anderen kochten ook",
+        "recommendations_count": 10,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "167567262859be62b8": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "6c6901df-cb46-40b6-a9c0-0673d0dc2942",
+    "4141dc15-6c36-4021-a2a1-980bf9d671c9",
+    "product-recommendations",
+    "167567262859be62b8"
+  ]
+}

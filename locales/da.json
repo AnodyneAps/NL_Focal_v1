@@ -1,0 +1,455 @@
+{
+  "general": {
+    "meta": {
+      "page": "siden {{ page }}"
+    },
+    "label": {
+      "color": "Farv, Farve",
+      "white": "Hvid",
+      "size": "Størrelse"
+    },
+    "breadcrumb": {
+      "title": "Brødkrummer",
+      "home": "Forside"
+    },
+    "pagination": {
+      "previous_page": "Forrige",
+      "next_page": "Næste",
+      "go_to_page": "Naviger til siden {{page}}"
+    },
+    "accessibility": {
+      "skip_to_content": "pring over til indhold",
+      "close": "Close",
+      "previous": "Forrige",
+      "next": "Næste",
+      "play_video": "Afspil video",
+      "go_to_slide": "Go to slide {{num}}",
+      "delete": "Slet",
+      "show_product": "Vis produkt {{title}}",
+      "star_reviews_info": "{{ rating_value }} ud af {{ rating_max }} stjerner"
+    },
+    "social": {
+      "facebook_share": "Del på Facebook",
+      "pinterest_pin": "Pin på Pinterest",
+      "twitter_tweet": "Tweet videre på Twitter",
+      "email_share": "Del på e-mail",
+      "email_label": "E-mail",
+      "follow_label": "Følg os på {{ social_media }}"
+    },
+    "newsletter": {
+      "email": "E-mail",
+      "subscribe": "Tilmeld",
+      "success": "Tak, du er nu tilmeldt vores nyhedsbrev"
+    },
+    "faq": {
+      "categories": "Kategorier"
+    },
+    "onboarding": {
+      "blog_post_category": "",
+      "blog_post_title": "",
+      "product_vendor": "",
+      "product_title": "",
+      "product_description": "",
+      "collection_title": ""
+    }
+  },
+  "header": {
+    "general": {
+      "navigation": "",
+      "newsletter": "",
+      "login": "",
+      "account": "",
+      "cart": "Kurv",
+      "language": "",
+      "country": ""
+    }
+  },
+  "footer": {
+    "general": {
+      "language": "",
+      "country": "",
+      "we_accept": ""
+    },
+    "newsletter": {
+      "email": "",
+      "submit": "",
+      "success": ""
+    },
+    "cookie_bar": {
+      "accept": "",
+      "decline": ""
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Kurv",
+      "empty": "Din kurv er tom",
+      "start_shopping": "Shop nu",
+      "free_shipping": "Hurtig levering til pakkeshop",
+      "free_shipping_remaining_html": "",
+      "free": "",
+      "no_more_stock": "",
+      "shipping_tax_note": "",
+      "product": "",
+      "quantity": "",
+      "decrease_quantity": "",
+      "increase_quantity": "",
+      "change_quantity": "",
+      "remove": "",
+      "order_note": "",
+      "add_order_note": "",
+      "edit_order_note": "",
+      "order_note_placeholder": "",
+      "order_note_save": "",
+      "total": "",
+      "checkout": "Til kassen",
+      "go_to_cart": "",
+      "we_accept": "",
+      "item_added": "",
+      "item_added_short": "",
+      "view_cart": "",
+      "item_count": {
+        "zero": "{{ count }} varer",
+        "one": "{{ count }} vare",
+        "other": "{{ count }} varer"
+      }
+    },
+    "shipping_estimator": {
+      "estimate_shipping": "",
+      "country": "",
+      "province": "",
+      "zip_code": "",
+      "submit": "",
+      "no_results": "",
+      "one_result": "",
+      "multiple_results": "",
+      "error": ""
+    }
+  },
+  "collection": {
+    "general": {
+      "filters": "",
+      "show_filters": "",
+      "all_products": "",
+      "view_results": "",
+      "apply_filters": "",
+      "clear_filters": "",
+      "price_range_to": "",
+      "price_filter_from": "",
+      "price_filter_to": "",
+      "price_filter": "",
+      "no_results_title": "",
+      "no_results_label": "",
+      "no_results_button": "",
+      "empty_title": "",
+      "empty_label": "",
+      "empty_button": "",
+      "sort_by": "",
+      "products_count": {
+        "zero": "",
+        "one": "",
+        "other": ""
+      }
+    },
+    "product": {
+      "sold_out": "",
+      "discount_html": "Spar {{savings}}",
+      "from_price_html": "",
+      "add_to_cart": "Tilføj til kurv",
+      "add_to_cart_short": "Tilføj til kurv",
+      "quick_view": "Tilføj til kurv",
+      "available_colors_count": {
+        "one": "",
+        "other": ""
+      }
+    }
+  },
+  "product": {
+    "general": {
+      "description": "Beskrivelse",
+      "reviews": "",
+      "sku": "",
+      "regular_price": "",
+      "sale_price": "",
+      "view_in_space": "",
+      "zoom": "",
+      "share": "",
+      "size_chart": "",
+      "need_help": "",
+      "view_details": "",
+      "include_taxes": "",
+      "shipping_policy_html": "",
+      "reviews_count": {
+        "zero": "",
+        "one": "",
+        "other": ""
+      }
+    },
+    "form": {
+      "choose_options": "",
+      "quantity": "Antal",
+      "variant": "",
+      "unavailable": "",
+      "pre_order": "",
+      "add_to_cart": "Tilføj til kurv",
+      "sold_out": "Udsolgt",
+      "in_stock": "På lager - klar til at blive sendt",
+      "oversell_stock": "",
+      "incoming_stock": "",
+      "low_stock_with_quantity_count": {
+        "one": "",
+        "other": ""
+      },
+      "contact_us": ""
+    }
+  },
+  "store_availability": {
+    "general": {
+      "view_store_info": "",
+      "check_other_stores": "",
+      "pick_up_available": "",
+      "pick_up_currently_unavailable": "",
+      "pick_up_available_at": "",
+      "pick_up_unavailable_at": ""
+    }
+  },
+  "list_collections": {
+    "general": {
+      "title": "",
+      "empty": "",
+      "back_to_home": "",
+      "products_count": {
+        "zero": "",
+        "one": "",
+        "other": ""
+      }
+    }
+  },
+  "blog": {
+    "general": {
+      "empty": "",
+      "back_to_home": "",
+      "view": "",
+      "all_posts": ""
+    }
+  },
+  "article": {
+    "general": {
+      "written_by": "",
+      "share": "",
+      "next": "",
+      "reading": "",
+      "tags": "",
+      "continue_reading": "",
+      "reading_time": {
+        "zero": "",
+        "one": "",
+        "other": ""
+      }
+    },
+    "comments": {
+      "leave_comment": "",
+      "moderated": "",
+      "name": "",
+      "email": "",
+      "message": "",
+      "submit": "",
+      "comment_sent": "",
+      "comment_published": "",
+      "comments_count": {
+        "zero": "",
+        "one": "",
+        "other": ""
+      }
+    }
+  },
+  "customer": {
+    "general": {
+      "title": ""
+    },
+    "login": {
+      "title": "",
+      "instructions": "",
+      "email": "",
+      "password": "",
+      "submit": "",
+      "forgot_password": "",
+      "new_customer": "",
+      "create_account": ""
+    },
+    "recover_password": {
+      "title": "",
+      "instructions": "",
+      "email": "",
+      "submit": "",
+      "remember_password": "",
+      "back_to_login": "",
+      "success": ""
+    },
+    "activate_account": {
+      "title": "",
+      "instructions": "",
+      "password": "",
+      "password_confirmation": "",
+      "submit": "",
+      "cancel": ""
+    },
+    "reset_password": {
+      "title": "",
+      "instructions": "",
+      "password": "",
+      "password_confirmation": "",
+      "submit": ""
+    },
+    "register": {
+      "title": "",
+      "instructions": "",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "password": "",
+      "submit": "",
+      "already_have_account": "",
+      "login": ""
+    },
+    "orders": {
+      "title": "",
+      "no_orders": "",
+      "start_shopping": "",
+      "back_to_orders": "",
+      "number": "",
+      "order_name": "",
+      "date": "",
+      "payment_status": "",
+      "fulfillment_status": "",
+      "view_details": "",
+      "cancelled_at": "",
+      "fulfillment_with_url_and_number_html": "",
+      "fulfillment_with_url_html": "",
+      "fulfillment_with_number_html": "",
+      "fulfillment_html": "",
+      "line_fulfillment_with_url_and_number_html": "",
+      "line_fulfillment_with_url_html": "",
+      "line_fulfillment_with_number_html": "",
+      "line_fulfillment_html": "",
+      "total": "",
+      "subtotal": "",
+      "discount": "",
+      "shipping": "",
+      "total_duties": "",
+      "refunded_amount": "",
+      "tax_included": "",
+      "tax_excluded": "",
+      "quantity": "",
+      "shipping_address": "",
+      "billing_address": ""
+    },
+    "addresses": {
+      "title": "",
+      "no_address": "",
+      "add_new": "",
+      "edit": "",
+      "delete": "",
+      "delete_confirm": "",
+      "save": "",
+      "default_address": "",
+      "address_count": "",
+      "fill_address": "",
+      "first_name": "",
+      "last_name": "",
+      "company": "",
+      "phone": "",
+      "address1": "",
+      "address2": "",
+      "city": "",
+      "zip": "",
+      "country": "",
+      "province": "",
+      "set_default": ""
+    },
+    "logout": {
+      "title": ""
+    }
+  },
+  "search": {
+    "general": {
+      "title": "",
+      "terms": "",
+      "search_placeholder": "",
+      "no_results": "",
+      "new_search": "",
+      "view_all_results": "",
+      "products": "",
+      "articles": "",
+      "pages": "",
+      "collections": ""
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "",
+      "email": "",
+      "message": "",
+      "submit": "",
+      "successfully_sent": ""
+    }
+  },
+  "gift_card": {
+    "issued": {
+      "subtext": "",
+      "illustration": "",
+      "disabled": "",
+      "expired": "",
+      "expires_on": "",
+      "redeem": "",
+      "remaining_amount_html": "",
+      "print": "",
+      "scan_qr_code": "",
+      "add_to_apple_wallet": "",
+      "go_to_store": ""
+    }
+  },
+  "password": {
+    "general": {
+      "store_owner": "",
+      "login": "",
+      "powered_by": "",
+      "enter_password": ""
+    },
+    "password": {
+      "label": "",
+      "input": "",
+      "submit": ""
+    },
+    "newsletter": {
+      "success": "",
+      "email": "",
+      "submit": ""
+    }
+  },
+  "404": {
+    "general": {
+      "title": "",
+      "description": "",
+      "back_to_home": ""
+    }
+  },
+  "shopify": {
+    "filters": {
+      "availability": {
+        "value": {
+          "in_stock": "På lager"
+        }
+      }
+    },
+    "checkout": {
+      "subscriptions": {
+        "recurring_totals_with_policies": {
+          "first_cycles": {
+            "one": "Du tilmelder dig vores abonnementsløsning. Vi sender 3 par underbukser hver 3. måned. Du betaler 299,- nu (ingen binding - du kan til enhver tid afmelde dig) og"
+          }
+        }
+      }
+    }
+  }
+}
